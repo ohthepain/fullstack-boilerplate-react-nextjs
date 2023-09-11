@@ -1,0 +1,13 @@
+{
+  "name": "fullstack-boilerplate-react-nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd app-fullstack && npm run dev",
+    "build": "cd app-fullstack && npm install && npm run build",
+    "start": "cd app-fullstack && npm run start",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
